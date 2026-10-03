@@ -17,7 +17,7 @@ Full-stack web and mobile developer from Tunisia. Computer engineering graduate,
 
 ### What I work with
 
-**Web:** TypeScript, React, Next.js, Node.js, Express, Tailwind CSS
-**Mobile:** React Native (Expo), Flutter
-**Data:** PostgreSQL, MySQL, MongoDB, SQLite, Firebase
-**Also:** Python, Java, Cloudflare (Pages, Workers, D1, R2), ESP32 / Arduino, Linux and networking
+- **Web:** TypeScript, React, Next.js, Node.js, Express, Tailwind CSS
+- **Mobile:** React Native (Expo), Flutter
+- **Data:** PostgreSQL, MySQL, MongoDB, SQLite, Firebase
+- **Also:** Python, Java, Cloudflare (Pages, Workers, D1, R2), ESP32 / Arduino, Linux and networking
