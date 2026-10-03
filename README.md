@@ -1,24 +1,23 @@
-# 💫 About Me:
-👋 Hi, I’m @azyzex.<br>👀 I’m interested in python, mobile and web developpement and problem solving !<br>🌱 I’m currently learning flutter and advanced python.<br>💞️ I’m looking to collaborate on a projects that match my intrests.<br>🔭 I’m currently working on an academic chatbot that speaks my native language.<br>
+## Hi, I'm Aziz
 
+Full-stack web and mobile developer from Tunisia. Computer engineering graduate, now doing a professional master's in networks engineering. I like building tools that fix one specific annoyance properly.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mohamed Aziz Guenni) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/azizguenni0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:azizguenni0@gmail.com) 
+**Portfolio:** [azyzex.github.io/AzyzPortfolio](https://azyzex.github.io/AzyzPortfolio/) · **LinkedIn:** [mohamed-aziz-guenni](https://www.linkedin.com/in/mohamed-aziz-guenni/) · **Email:** [azizguenni0@gmail.com](mailto:azizguenni0@gmail.com)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=azyzex&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=azyzex&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azyzex&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Things I've built
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=azyzex&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+| | |
+| --- | --- |
+| **[Rehearsal](https://github.com/azyzex/Rehearsal)** | VS Code extension that runs a database migration against your real data inside a rolled-back transaction, and tells you what it would have done — as counts. Postgres, MySQL, MongoDB, SQLite. |
+| **[Claude Code Sounds](https://github.com/azyzex/ClaudeCodeSounds)** | Distinct sound alerts for Claude Code: finished, needs you, hit the limit, limit reset. Desktop app, browser extension and phone push. |
+| **[Faultix](https://github.com/azyzex/faultix)** | Remembers every failure in your project and what fixed it, and lets your coding agent ask over MCP. |
+| **[TTVC](https://github.com/azyzex/TTVC)** | Type a message and everyone in the voice chat hears it — local neural TTS through a virtual microphone. |
+| **[PromptProtect](https://github.com/azyzex/PromptProtect)** | Chrome extension that catches API keys and personal data before you paste them into an AI chat. |
+| **[TunIA](https://tunia.pages.dev)** | A study assistant for Tunisian students that answers in Tunisian Darija. |
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### What I work with
 
----
-[![](https://visitcount.itsvg.in/api?id=azyzex&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Web:** TypeScript, React, Next.js, Node.js, Express, Tailwind CSS
+**Mobile:** React Native (Expo), Flutter
+**Data:** PostgreSQL, MySQL, MongoDB, SQLite, Firebase
+**Also:** Python, Java, Cloudflare (Pages, Workers, D1, R2), ESP32 / Arduino, Linux and networking
